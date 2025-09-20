@@ -2755,10 +2755,10 @@ public function endSong()
 		Achievements.unlock('nice');
 		}
 
-		if (difficultyId == "Nightmare" && ratingName == "Perfect!!")
-		{
-			Achievements.unlock('rapgod');
-		}
+//		if (difficultyId == "Nightmare" && ratingName == "Perfect!!")
+//		{
+//			Achievements.unlock('rapgod');
+//		}
 	}
 	
 	timeBar.visible = false;
