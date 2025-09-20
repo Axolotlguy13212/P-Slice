@@ -48,6 +48,9 @@ class Achievements {
 		createAchievement('ur_bad',					{name: "L", description: "Complete a Song with a rating lower than 20%."});
 		createAchievement('ur_good',				{name: "You Should Drink More Water", description: "Complete a Song with a rating of 100%."});
 		createAchievement('nice',				    {name: "Nice", description: "Complete a Song with a rating of 69%."});
+		createAchievement('rapgod',				    {name: "The Rap God", description: "Get a 100% on a song on Nightmare difficulty."});
+		createAchievement('stayfunky',				{name: "Stay Funky", description: "Open the character select screen and unlock your first character."});
+		//createAchievement('tutorial_nomiss',		{name: "That's how you do it!", description: "Beat the Tutorial on Hard with no misses."});
 		createAchievement('oversinging', 			{name: "Oversinging Much...?", description: "Sing for 10 seconds without going back to Idle."});
 		createAchievement('hype',					{name: "Hyperactive", description: "Finish a Song without going back to Idle."});
 		createAchievement('two_keys',				{name: "Just the Two of Us", description: "Finish a Song pressing only two keys."});
